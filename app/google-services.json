@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522633209657",
+    "firebase_url": "https://praktiskaisviens.firebaseio.com",
+    "project_id": "praktiskaisviens",
+    "storage_bucket": "praktiskaisviens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522633209657:android:1c38b27a3c9693ed",
+        "android_client_info": {
+          "package_name": "lv.jansevskis.martins.praktiskais_viens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522633209657-55ubng9po3cr5c5q9r531reotoploq64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lv.jansevskis.martins.praktiskais_viens",
+            "certificate_hash": "614d8c83e163841f7ef9b96963a034029e35a25f"
+          }
+        },
+        {
+          "client_id": "522633209657-oodppggi7k7kkinclmo22te1sntqk1jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBV1jFJatLZ_VHXM6gHpnMHC_c3bq6tVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522633209657-oodppggi7k7kkinclmo22te1sntqk1jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

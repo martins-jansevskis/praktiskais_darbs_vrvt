@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pirmais praktiskais darbs</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_description">Praktiskajā darbā izmantosim kameru, uzņemsim attēlus un tos iespraudīsim režģa skatā</string>
+    <string name="catch_image">Uzņemt attēlu</string>
+    <string name="image_thumb">Uzņemtā attēla priekšskats</string>
+    <string name="catch_video">Uznemt video</string>
+</resources>
